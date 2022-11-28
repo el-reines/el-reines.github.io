@@ -1,3 +1,3 @@
-https://github.com/el-reines/2022/11/25/%E7%99%BB%E9%99%86%E6%97%A5-Landing-Day/
-https://github.com/el-reines/2022/11/25/hello-world/
-https://github.com/el-reines
+https://el-reines.github.io/2022/11/25/%E7%99%BB%E9%99%86%E6%97%A5-Landing-Day/
+https://el-reines.github.io/2022/11/25/hello-world/
+https://el-reines.github.io/
