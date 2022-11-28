@@ -3,11 +3,11 @@
   <title>Reines · Blog</title>
   
   <subtitle>维多利亚的麦田小镇</subtitle>
-  <link href="https://github.com/Doc-Robert/atom.xml" rel="self"/>
+  <link href="https://github.com/el-reines/el-reines.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Doc-Robert/"/>
+  <link href="https://github.com/el-reines/el-reines.github.io/"/>
   <updated>2022-11-25T07:53:37.500Z</updated>
-  <id>https://github.com/Doc-Robert/</id>
+  <id>https://github.com/el-reines/el-reines.github.io/</id>
   
   <author>
     <name>Robert Reines</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>登陆日 Landing Day</title>
-    <link href="https://github.com/Doc-Robert/2022/11/25/%E7%99%BB%E9%99%86%E6%97%A5-Landing-Day/"/>
-    <id>https://github.com/Doc-Robert/2022/11/25/%E7%99%BB%E9%99%86%E6%97%A5-Landing-Day/</id>
+    <link href="https://github.com/el-reines/el-reines.github.io/2022/11/25/%E7%99%BB%E9%99%86%E6%97%A5-Landing-Day/"/>
+    <id>https://github.com/el-reines/el-reines.github.io/2022/11/25/%E7%99%BB%E9%99%86%E6%97%A5-Landing-Day/</id>
     <published>2022-11-25T07:51:25.000Z</published>
     <updated>2022-11-25T07:53:37.500Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Doc-Robert/2022/11/25/hello-world/"/>
-    <id>https://github.com/Doc-Robert/2022/11/25/hello-world/</id>
+    <link href="https://github.com/el-reines/el-reines.github.io/2022/11/25/hello-world/"/>
+    <id>https://github.com/el-reines/el-reines.github.io/2022/11/25/hello-world/</id>
     <published>2022-11-25T03:30:17.315Z</published>
     <updated>2022-11-25T03:30:17.315Z</updated>
     
